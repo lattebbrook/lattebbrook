@@ -1,6 +1,6 @@
 <img align="center" src="https://media.discordapp.net/attachments/1054077287718457414/1060074077005545532/Github_Landing_Page_1.png" />
 <h1 align="center">Hi 👋, I'm Tanawat Boonmak</h1>
-<h3 align="center">Aspiring tech enthusiast and self-taught programmer on a mission to break into the industry. Always learning and seeking out new challenges.</h3>
+<h3 align="center">Aspiring tech enthusiast and self-taught programmer on a mission to break into the industry. <br>Always learning and seeking out new challenges.</h3>
 
 
 
