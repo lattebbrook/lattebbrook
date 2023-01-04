@@ -7,7 +7,14 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lattebbrook&show_icons=true&locale=en" alt="lattebbrook" />
 </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lattebbrook&label=Profile%20views&color=0e75b6&style=flat" alt="lattebbrook" /></p><p align="left"> <a href="https://twitter.com/codewithbrooks" target="blank"><img src="https://img.shields.io/twitter/follow/codewithbrooks?logo=twitter&style=for-the-badge" alt="codewithbrooks" /></a> </p>
+
+
+<h1> About me </h1>
+Welcome to my personal GitHub page! My name is Tanawat Boonmak and I am a self-taught software developer. Prior to my transition into programming, I worked as a Data Analyst @ MBC LAND (Affiliation of <a href="https://www.pttor.com/">PTTOR</a>) in the Oil and Gas / Automotive industry in Thailand. And also in my experienced I was working as Executive Assistant to CTO at <a href="https://www.bangkokcable.com/">Bangkok Cable</a> The Top #1 Cable Manufacturing in Thailand.
+
+<br>I am passionate about learning and improving my skills, and I believe that persistence and determination are key to achieving success. This GitHub page serves as a documentation of my journey from a beginner to a successful software developer.
+
+<br>I am excited to share my progress and projects with you and hope to continue learning and growing as a developer. Thank you for visiting my page and feel free to reach out to me with any questions or opportunities.
 
 - 🔭 I’m currently working on **developing Java Application**
 
@@ -18,6 +25,8 @@
 - 💬 Ask me about **anything**
 
 - 📫 How to reach me **tanawat.brook@icloud.com**
+
+<p align="left"> <a href="https://twitter.com/codewithbrooks" target="blank"><img src="https://img.shields.io/twitter/follow/codewithbrooks?logo=twitter&style=for-the-badge" alt="codewithbrooks" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -33,5 +42,5 @@
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lattebbrook&show_icons=true&locale=en&layout=compact" alt="lattebbrook" />
 </p>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lattebbrook&label=Profile%20views&color=0e75b6&style=flat" alt="lattebbrook" /></p>
 
