@@ -31,9 +31,9 @@ Welcome to my personal GitHub page! My name is Tanawat Boonmak and I am a self-t
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/codewithbrooks" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="codewithbrooks" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/tanawat-boonmak-b79136147/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tanawat-boonmak-b79136147/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/20924473/ttanawat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/20924473/ttanawat" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/ttanawat/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/ttanawat/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/tanawat-boonmak-b79136147/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/tanawat-boonmak-b79136147/" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/20924473/ttanawat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/20924473/ttanawat" height="30" width="40" /></a>
+<a href="https://leetcode.com/ttanawat/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/ttanawat/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
