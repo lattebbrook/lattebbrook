@@ -12,7 +12,7 @@
 <h1> About me </h1>
 Welcome to my personal GitHub page! My name is Tanawat Boonmak and I am a self-taught software developer. Prior to my transition into programming, I worked as a Data Analyst @ MBC LAND (Affiliation of <a href="https://www.pttor.com/">PTTOR</a>) in the Oil and Gas / Automotive industry in Thailand. And also in my experienced I was working as Executive Assistant to CTO at <a href="https://www.bangkokcable.com/">Bangkok Cable</a> The Top #1 Cable Manufacturing in Thailand.
 
-<br>I am passionate about learning and improving my skills, and I believe that persistence and determination are key to achieving success. This GitHub page serves as a documentation of my journey from a beginner to a successful software developer.
+<br>As I'm just a beginner in programming, I am passionate about learning and improving my skills, and I believe that persistence and determination are key to achieving success. This GitHub page serves as a documentation of my journey from a beginner to a successful software developer.
 
 <br>I am excited to share my progress and projects with you and hope to continue learning and growing as a developer. Thank you for visiting my page and feel free to reach out to me with any questions or opportunities.
 
