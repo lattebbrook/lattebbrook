@@ -18,7 +18,7 @@ Welcome to my personal GitHub page! My name is Tanawat Boonmak and I am a self-t
 
 - 🔭 I’m currently working on **Becoming Java Backend Developer**
 
-- 🌱 I’m currently learning **Backend Development, Golang, Kubernetes, Mango DB, PostgreSQL**
+- 🌱 I’m currently learning **Backend Development, Golang, Kubernetes, MongoDB, PostgreSQL**
 
 - 👯 I’m looking to collaborate on **Java, Backend Development project**
 
