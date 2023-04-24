@@ -16,7 +16,7 @@ Welcome to my personal GitHub page! My name is Tanawat and I am software develop
 
 - 🔭 I’m working as **Software Developer @ Aware Group**
 
-- 🌱 I’m currently learning **Node JS, React, SQL Server**
+- 🌱 I’m currently learning **Three.js, Node.js, React, SQL Server, Typescript, Go Lang**
 
 - 👯 I’m looking to collaborate on **Java, Backend Development project**
 
