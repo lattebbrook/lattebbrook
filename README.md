@@ -14,9 +14,9 @@ Welcome to my personal GitHub page! My name is Tanawat and I am software develop
 
 <br>I am excited to share my progress and projects with you and hope to continue learning and growing as a developer. Thank you for visiting my page and feel free to reach out to me with any questions or opportunities.
 
-- 🔭 I’m working as Software Developer at Aware Group
+- 🔭 I’m working as **Software Developer @ Aware Group**
 
-- 🌱 I’m currently learning **Backend Development, Golang, Kubernetes, MongoDB, PostgreSQL**
+- 🌱 I’m currently learning **Node JS, React, SQL Server**
 
 - 👯 I’m looking to collaborate on **Java, Backend Development project**
 
