@@ -1,9 +1,9 @@
 <img align="center" src="https://media.discordapp.net/attachments/1054077287718457414/1060078354801369168/Github_Landing_Page_2.png" />
 <h1 align="center">Hi 👋, I'm Tanawat Boonmak</h1>
-<h3 align="center">I'm Java Software Developer. Spring, Spring Boot, and Equinox Framework. <br>
+<h3 align="center">I'm Java Software Developer. Using Spring Boot, Spring Core and Equinox Framework. <br>
 
 
-
+<br>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=lattebbrook&show_icons=true&locale=en" alt="lattebbrook" />
 </p>
