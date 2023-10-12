@@ -2,13 +2,6 @@
 <h1 align="center">Hi 👋, I'm Tanawat Boonmak</h1>
 <h3 align="center">I'm Java Software Developer. Using Spring Boot, Spring Core and Equinox Framework. <br>
 
-
-<br>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lattebbrook&show_icons=true&locale=en" alt="lattebbrook" />
-</p>
-
-
 <h1> About me </h1>
 Welcome to my personal GitHub page! My name is Tanawat and I am software developer. Prior to my transition into programming, I worked as a Data Analyst @ MBC LAND (Affiliation of <a href="https://www.pttor.com/">PTTOR</a>) in the Oil and Gas / Automotive industry in Thailand. And also in my experienced I was working as Executive Assistant to CTO at <a href="https://www.bangkokcable.com/">Bangkok Cable</a> The Top #1 Cable Manufacturing in Thailand.
 
