@@ -15,7 +15,7 @@ Welcome to my personal GitHub page! My name is Tanawat and I am software develop
 
 - 💬 Ask me about **anything**
 
-- 📫 How to reach me **tanawat.brook@icloud.com**
+- 📫 How to reach me >> JUST DM
 
 <p align="left"> <a href="https://twitter.com/codewithbrooks" target="blank"><img src="https://img.shields.io/twitter/follow/codewithbrooks?logo=twitter&style=for-the-badge" alt="codewithbrooks" /></a> </p>
 
